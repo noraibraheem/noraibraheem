@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nora Ibraheem</h1>
-<h3 align="center">I'm interested in Data science and ML engineering.</h3>
+<h3 align="center">I'm interested in ML engineering.</h3>
 
 - 💬 Ask me about **data analysis by python**
 
