@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nora Ibraheem</h1>
 <h3 align="center">I'm interested in ML engineering.</h3>
 
-- 💬 Ask me about **data analysis by python**
+- 💬 Ask me about **data analysis by python and machine learning algorithms**
 
 - 📫 How to reach me **nmajd4687@gmail.com**
 
