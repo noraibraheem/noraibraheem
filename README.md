@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **data analysis by python and machine learning algorithms**
 
-- 📫 How to reach me **nmajd4687@gmail.com**
+- 📫 How to reach me **noraibraheem28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
