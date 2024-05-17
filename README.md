@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working in **BareeQ academy as programming instructor**
 
-- 🌱 I’m currently learning **data engineering**
-
 - 📫 How to reach me **noraibraheem28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
